@@ -14,7 +14,7 @@ The main objective is to create an annual sales report for Vrinda Store for the 
 
 𝘙𝘦𝘱𝘰𝘳𝘵 𝘊𝘳𝘦𝘢𝘵𝘪𝘰𝘯: Created an interactive report for Vrinda store.
 
-## 𝐔𝐧𝐜𝐨𝐯𝐞𝐫𝐞𝐝 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
+## 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
 1.Adult age group (30-49yrs) contributes the most.
 
 2.Women are more likely to purchase (64%).
