@@ -23,5 +23,9 @@ The main objective is to create an annual sales report for Vrinda Store for the 
 
 4.Maharashtra, Karnataka and Uttar Pradesh are the top three states where most of the sales are happening.
 
+
+![VrindaStore](https://github.com/Charitha-AO/Vrinda_Store_Analysis_Excel/assets/86000133/5a464d5f-cd53-490c-843f-de0c92b2fc9c)
+
+
 ## 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧 :
 Target women customers of age group (30-49) years living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/coupons/offers available on Amazon, Myntra and Flipkart.
